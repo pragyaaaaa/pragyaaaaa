@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 I write codes, of course.
 But along with it, I love learning about how stuff works- right from earphones to ever-expanding universe. I can geek out over absolute luminosity of stars, yet, at times, I spend nights on planning UI components and figuring out data flow without a single line of code.
 In nutshell, my passion for programming is coupled with love for understanding the big-picture which sets technology to make sense.
+Fun fact: I'm a great fan of Star Wars, but, I kinda hate Avengers.
